@@ -1,0 +1,20 @@
+[
+  {
+      "id_mahasiswa":"1",
+      "nim_mahasiswa":"5170711039",
+      "nama_mahasiswa":"Bayu Ari Pratama",
+      "kelas_mahasiswa":"A"
+  },
+  {
+      "id_mahasiswa":"2",
+      "nim_mahasiswa":"51707110555",
+      "nama_mahasiswa":"Muhammad Yogi",
+      "kelas_mahasiswa":"B"
+  },
+  {
+      "id_mahasiswa":"3",
+      "nim_mahasiswa":"5170711066",
+      "nama_mahasiswa":"Sasmiko",
+      "kelas_mahasiswa":"C"
+  }
+]
